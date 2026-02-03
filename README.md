@@ -1,16 +1,22 @@
-# React + Vite
+# Plant Haven - Modern Web UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern web application built to showcase my skills in React and Tailwind CSS. This project focuses on a clean user experience for plant enthusiasts.
 
-Currently, two official plugins are available:
+## 🚀 My Learning Journey
+I built this project to practice:
+* **React Components:** Breaking down the UI into reusable pieces.
+* **Tailwind CSS:** Implementing a modern, "utility-first" design.
+* **Responsive Design:** Ensuring the website looks great on mobile, tablet, and desktop.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+* **Frontend:** React + Vite
+* **Styling:** Tailwind CSS
+* **Language:** JavaScript (ES6+)
 
-## React Compiler
+## 🌟 Features
+* Interactive Navigation Bar.
+* Responsive Product/Plant Grid.
+* Modern Hover Effects and UI patterns.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Created as part of my portfolio to demonstrate my growth as a Frontend Developer.*
